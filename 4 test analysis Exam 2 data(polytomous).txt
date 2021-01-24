@@ -1,0 +1,79 @@
+These data are from a test composed 
+of all Likert scale items that are scored from 0 to 3 points.                             
+Likert items do not have distractors in the sense that there are wrong answers. 
+The closer the item difficulty is to 3, the easier 
+the item. You can see in the figure that item18 is the easiest item (2.5940) 
+and item10 is the most difficult (1.1120). Dividing each of these values by the 
+maximum possible item score puts item difficulty back onto a 0 to 1 scale, but the 
+interpretation is different than it was for binary items. Item difficulty values for 
+item18 and item10 become 0.8647 and 0.3707, respectively, when divided by 
+the maximum possible item score. With this transformation it is easy to see that 
+item18 is easier than item10.
+With respect to item discrimination, the estimates range from 0.4971 to 0.6548 
+and are clearly in the desired range. There is no indication of a problem with any 
+of these items.
+
+
+
+                               ITEM ANALYSIS
+                              analysis.EXAM2
+                        October 21, 2020  00:01:09
+======================================================================
+
+ Item        Option (Score)  Difficulty   Std. Dev.  Discrimin.  
+ ---------  ---------------  ----------  ----------  ----------  
+ item1              Overall      2.1540      1.0219      0.5342  
+ item2              Overall      1.4280      1.1780      0.6168  
+ item3              Overall      1.2880      0.8687      0.5173  
+ item4              Overall      1.2260      1.0398      0.5819  
+ item5              Overall      2.2020      1.0331      0.5814  
+ item6              Overall      1.1320      1.0318      0.5467  
+ item7              Overall      1.5720      1.1346      0.6241  
+ item8              Overall      2.1820      0.8380      0.5251  
+ item9              Overall      1.2900      1.1386      0.6065  
+ item10             Overall      1.1120      1.0797      0.5941  
+ item11             Overall      1.2340      1.0457      0.5981  
+ item12             Overall      1.3860      1.0154      0.5513  
+ item13             Overall      1.2360      1.1255      0.6265  
+ item14             Overall      1.1560      1.0891      0.5719  
+ item15             Overall      1.1940      0.9392      0.5401  
+ item16             Overall      1.3400      0.9891      0.5969  
+ item17             Overall      1.8420      1.0350      0.5533  
+ item18             Overall      2.5940      0.6856      0.4971  
+ item19             Overall      1.4000      1.0149      0.5756  
+ item20             Overall      1.4400      1.1085      0.6548  
+======================================================================
+
+
+
+          TEST LEVEL STATISTICS           
+==========================================
+Number of Items = 20        
+Number of Examinees =        500
+Min = 0.0000
+Max = 59.0000
+Mean = 30.4080
+Median = 30.0000
+Standard Deviation = 12.8503
+Interquartile Range = 21.0000
+Skewness = 0.0108
+Kurtosis = -0.8135
+KR21 = 1.1535
+==========================================
+
+
+
+                            RELIABILITY ANALYSIS
+===========================================================================
+ Method               Estimate          95% Conf. Int.             SEM
+---------------------------------------------------------------------------
+ Guttman's L2           0.9198         (0.9093, 0.9297)         3.6420
+ Coefficient Alpha      0.9185         (0.9077, 0.9285)         3.6730
+ Feldt-Gilmer           0.9198         (0.9093, 0.9297)         3.6423
+ Feldt-Brennan          0.9198         (0.9092, 0.9296)         3.6432
+ Raju's Beta            0.9185         (0.9077, 0.9285)         3.6730
+===========================================================================
+
+
+
+Elapsed time: 0 secs, 176 msecs

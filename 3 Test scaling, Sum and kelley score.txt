@@ -1,0 +1,110 @@
+           TEST SCALING: KELLEY SCORES
+                itemscoring.EXAM1
+            August 31, 2020  16:43:01
+
+
+Sum scores and percent correct scores are estimates of an examinee’s true score, but they are affected by measurement error . Kelley’s regressed  score is a better estimate of the true score because it accounts for measurement error. Kelley’s regressed score involves an examinee’s raw score, X; the average raw  score for the group, X; and an estimate of score reliability.  Kelley’s regressed score is a biased but less variable estimate of the true score than the raw score.
+
+The mean has been set to 10 and the SD has been set to 50.
+
+Coefficient alpha = 0.12
+
+
+Sum Score Descriptive Statistics                  
+==============================
+Statistic           Value     
+------------------------------
+N               6000.0000     
+Min                0.0000     
+Max               28.0000     
+Mean              13.3392     
+St. Dev.           3.0546     
+Skewness          -0.2344     
+Kurtosis           1.0505     
+==============================
+
+
+
+
+Kelley Score Descriptive Statistics               
+==============================
+Statistic           Value     
+------------------------------
+N               6000.0000     
+Min                6.3300     
+Max               98.0000     
+Mean              49.9999     
+St. Dev.           9.9997     
+Skewness          -0.2345     
+Kurtosis           1.0509     
+==============================
+
+
+
+                 SCORE TABLE
+=============================================
+  Original         Kelley
+     Value          Score
+---------------------------------------------
+      0.00           6.33     
+      1.00           9.60     
+      2.00          12.88     
+      3.00          16.15     
+      4.00          19.43     
+      5.00          22.70     
+      6.00          25.97     
+      7.00          29.25     
+      8.00          32.52     
+      9.00          35.79     
+     10.00          39.07     
+     11.00          42.34     
+     12.00          45.62     
+     13.00          48.89     
+     14.00          52.16     
+     15.00          55.44     
+     16.00          58.71     
+     17.00          61.98     
+     18.00          65.26     
+     19.00          68.53     
+     20.00          71.81     
+     21.00          75.08     
+     22.00          78.35     
+     23.00          81.63     
+     24.00          84.90     
+     25.00          88.18     
+     26.00          91.45     
+     27.00          94.72     
+     28.00          98.00     
+     29.00         101.27     
+     30.00         104.54     
+     31.00         107.82     
+     32.00         111.09     
+     33.00         114.37     
+     34.00         117.64     
+     35.00         120.91     
+     36.00         124.19     
+     37.00         127.46     
+     38.00         130.73     
+     39.00         134.01     
+     40.00         137.28     
+     41.00         140.56     
+     42.00         143.83     
+     43.00         147.10     
+     44.00         150.38     
+     45.00         153.65     
+     46.00         156.92     
+     47.00         160.20     
+     48.00         163.47     
+     49.00         166.75     
+     50.00         170.02     
+     51.00         173.29     
+     52.00         176.57     
+     53.00         179.84     
+     54.00         183.12     
+     55.00         186.39     
+     56.00         189.66     
+=============================================
+Linear Transformation: Y = 27.81X + -321.01
+
+
+Elapsed time: 2 secs, 713 msecs
