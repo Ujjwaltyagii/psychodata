@@ -1,2 +1,0 @@
-# psychodata
-Psychometric data analysis
